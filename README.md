@@ -1,6 +1,6 @@
 # Proyecto A — REGRESIÓN: Energy Efficiency Data Set
 
-**Estudiante:** <NOMBRE_ESTUDIANTE>
+**Estudiante:** ÓScar Mauricio García Mesa
 
 **Fecha:** Noviembre 2025
 
