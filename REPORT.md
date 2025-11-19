@@ -611,11 +611,6 @@ seaborn==0.12.2
 scikit-learn==1.3.0
 ```
 
-### Hardware Utilizado
-- **CPU**: Procesador Intel/AMD multi-core
-- **RAM**: 8GB (mínimo recomendado)
-- **Almacenamiento**: 100MB para proyecto completo
-
 ### Tiempo de Ejecución
 - **Carga y EDA**: ~30 segundos
 - **Entrenamiento de modelos**: <5 segundos
